@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Varun Kharkwal</h1>
 <h3 align="center">I am a freelancer for Full Stack Developer with most of my projects being private</h3>
 
-- 🔭 I’m currently working on **Private Projects**
+- 🔭 I’m currently working on **SurveySnap**
 
-- 👯 I’m looking to collaborate on **Anroid Application**
+- 👯 I’m looking to collaborate on **None for now**
 
-- 🤝 I’m looking for help with **None for now**
+- 🤝 I’m looking for help with **Anroid Application**
 
-- 💬 Ask me about **react, tailwind, express**
+- 💬 Ask me about **react, tailwind, express, mongodb, nextjs, reactjs**
 
-- 📫 How to reach me **varunkh12345@gmail.com**
+- 📫 How to reach me **varunkh12345@gmail.com**, **9548899429**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
