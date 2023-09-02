@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Kharkwal</h1>
 <h3 align="center">I am a freelancer for Full Stack Developer with most of my projects being private</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkbrawler" alt="vkbrawler" /></a> </p>
-
 - 🔭 I’m currently working on **Private Projects**
 
 - 👯 I’m looking to collaborate on **Anroid Application**
