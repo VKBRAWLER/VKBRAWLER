@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **None for now**
 
-- 🤝 I’m looking for help with **Anroid Application**
+- 🤝 I’m looking for help with **Android Application**
 
 - 💬 Ask me about **react, tailwind, express, mongodb, nextjs, reactjs**
 
