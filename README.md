@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Kharkwal</h1>
-<h3 align="center">I am a freelancer for Full Stack Developer with most of my projects being private</h3>
+<h3 align="center">I am a freelancer for Full Stack MERN Developer</h3>
 
 - 🔭 I’m currently working on **SurveySnap**
 
