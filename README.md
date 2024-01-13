@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkbrawler&show_icons=true&locale=en&layout=compact" alt="vkbrawler" /></p>
 <h3 align="left">My Stats: </h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VKBRAWLER&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VKBRAWLER&theme=transparent" alt="GitHub Streak" /></a>
