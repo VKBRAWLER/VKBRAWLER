@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Kharkwal</h1>
 <h3 align="center">I am a freelancer for Full Stack MERN Developer</h3>
 
-- 🔭 I’m currently working on **none**
+- 🔭 I’m currently working on **Leetcode**
 
-- 👯 I’m looking to collaborate on **none**
+- 👯 I’m looking to collaborate on **Android Development**
 
-- 🤝 I’m looking for **Intership in Web Development**
+- 🤝 I’m looking for **Intership in CSE dept.**
 
 - 💬 Ask me about **react, tailwind, express, mongodb, nextjs, reactjs**
 
