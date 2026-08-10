@@ -1,27 +1,123 @@
-<h1 align="center">Hi 👋, I'm Varun Kharkwal</h1>
-<h3 align="center">I am a freelancer for Full Stack MERN Developer</h3>
+# 👋 Hey, I'm Varun Kharkwal
 
-- 🔭 I’m currently working on **Leetcode**
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Trying+to+be+better." alt="Trying to be better." /> </p>
 
-- 👯 I’m looking to collaborate on **Android Development**
+---
 
-- 🤝 I’m looking for **Intership in CSE dept.**
+## 🚀 What I'm Building
 
-- 💬 Ask me about **react, tailwind, express, mongodb, nextjs, reactjs**
+I work across **technology, automation, infrastructure and real-world systems**.
 
-- 📫 How to reach me **varunkh12345@gmail.com**, **9548899429**, **9456790295**
+I'm currently involved with:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varun kharkwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun kharkwal" height="30" width="40" /></a>
-<a href="https://fb.com/varun kharkwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun kharkwal" height="30" width="40" /></a>
-<a href="https://instagram.com/vkbrawler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vkbrawler" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vkbrawler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vkbrawler" height="30" width="40" /></a>
+* ⚡ [**Uphill E Charge Private Limited**](https://www.linkedin.com/company/uphill-e-charge-private-limited/) — EV charging infrastructure
+* 🧾 **Varundeep Associates** — Tax, accounting & business services
+
+I enjoy taking an idea, figuring out how the pieces fit together, and turning it into something that actually works.
+
+---
+
+## 🛠️ Things I've Worked With
+
+I've worked on projects involving:
+
+* 🌐 Web development — frontend & backend
+* 🤖 AI / Machine Learning
+* ⚙️ Automation & workflow systems
+* 🖥️ Self-hosted servers & infrastructure
+* 🌐 Networking & system administration
+* 🔋 EV charging infrastructure
+* 📡 Arduino & IoT projects
+* 🗄️ Databases & data systems
+* 🔌 APIs & integrations
+* 🐧 Linux & server environments
+
+My interests aren't limited to one area — I like connecting different technologies together to solve practical problems.
+
+---
+
+## 🖥️ Self-Hosting & Infrastructure
+
+I'm particularly interested in **running and controlling infrastructure myself** rather than depending entirely on external platforms.
+
+I've been building and experimenting with:
+
+* Linux servers
+* Virtualization
+* Local networks
+* Self-hosted applications
+* Remote access
+* Storage & backups
+* Server monitoring
+* Networking
+* Automation
+
+I'm interested in connecting with people who have experience **designing, managing and securing self-hosted server environments**.
+
+---
+
+## ⚡ EV Charging
+
+Through **Uphill E Charge**, I'm working with EV charging infrastructure and the systems surrounding it.
+
+Areas I'm particularly interested in:
+
+* EV charging station management
+* Charger ↔ CSMS communication
+* OCPP
+* Charging-session data
+* Remote monitoring
+* Backend systems for charging networks
+* Charger integrations
+* Automation around charging infrastructure
+
+### 🤝 Looking to Collaborate
+
+I'm currently looking to connect with people who have experience with:
+
+**🔌 OCPP & EV Charging**
+
+If you've worked with **OCPP protocols, charger integrations, CSMS development, or communication between charging stations and backend systems**, I'd love to exchange ideas and learn from your experience.
+
+**🖥️ Self-Hosted Infrastructure**
+
+If you work with **Linux servers, virtualization, networking, self-hosted applications or server security**, I'd also be interested in collaborating and learning from you.
+
+> If you're working in either of these areas and want to build, experiment or exchange ideas, feel free to reach out.
+
+---
+
+## 🧪 Things I've Built / Worked On
+
+| Project                            | What it involves                                    |
+| ---------------------------------- | --------------------------------------------------- |
+| ⚡ **Uphill E-Charge**              | EV charging infrastructure, operations & technology |
+| 🧾 **Tax Management Platform**     | Tax & accounting workflow automation                |
+| 🖥️ **Self-Hosted Infrastructure** | Servers, virtualization, networking & services      |
+| 🤖 **Automation Systems**          | Browser, business & workflow automation             |
+| 🎮 **BrawlStore**                  | Gaming marketplace & backend systems                |
+| 🔌 **IoT / Arduino Projects**      | Hardware, sensors & automation                      |
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in meeting people who enjoy **building, experimenting and solving practical problems**.
+
+Especially interested in connecting with:
+
+* OCPP / EV charging developers
+* Self-hosting & Linux enthusiasts
+* Infrastructure / DevOps engineers
+* Automation developers
+* AI / ML developers
+* Hardware / IoT enthusiasts
+* Open-source builders
+
+**Have something interesting you're building? Let's talk.**
+
+---
+
+<p align="center">
+  <i>Trying to be better.</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkbrawler&show_icons=true&locale=en&layout=compact" alt="vkbrawler" /></p>
-<h3 align="left">My Stats: </h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VKBRAWLER&theme=transparent" alt="GitHub Streak" /></a>
